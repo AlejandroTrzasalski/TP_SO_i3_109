@@ -1,0 +1,11 @@
+10.a) Queda con todos los cambios actualizados.
+10.b) Si
+10.c) 
+	- git pull https://github.com/AlejandroTrzasalski/TP_SO_i3_109.git
+	- git checkout marinovich
+	- git pull https://github.com/AlejandroTrzasalski/TP_SO_i3_109.git
+	- git checkout master
+	- git merge marinovich
+	- git push
+
+
