@@ -25,3 +25,14 @@ teniamos una diferencia en el comando. (no especificabamos la rama del pull)
 	- git add -A
 	- git commit -m "GAMMA realiza el punto 7"
 	- git push origin trzasalski
+
+10.g)
+	- git pull https://github.com/AlejandroTrzasalski/TP_SO_i3_109.git trzasalski
+	- echo "ThirdOne" >> beta.txt
+	- echo " " >> beta.txt
+	- echo "$(ifconfig)" >> beta.txt
+	- echo " " >> beta.txt
+	- echo "$(date +"%T")" >> beta.txt
+	- git add -A
+	- git commit -m "ALFA realiza el punto 8"
+	- git push origin trzasalski
