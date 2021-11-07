@@ -8,4 +8,20 @@
 	- git merge marinovich
 	- git push
 
+10.d) La rama marinovich, está actualizada hasta el punto solicitado.
+      La rama trzasalski, está actualizada hasta el punto solicitado.
+      La rama master, se actualiza con los cambios de ambas ramas.
 
+10.e) No podiamos traer el pull de la rama trzasalski, debido a que
+teniamos una diferencia en el comando. (no especificabamos la rama del pull)
+
+10.f)
+	- git pull https://github.com/AlejandroTrzasalski/TP_SO_i3_109.git trzasalski
+	- echo "Martin Marinovich" >> beta.txt
+	- echo " " >> beta.txt
+	- echo "$(ifconfig)" >> beta.txt
+	- echo " " >> beta.txt
+	- echo "$(date +"%T")" >> beta.txt
+	- git add -A
+	- git commit -m "GAMMA realiza el punto 7"
+	- git push origin trzasalski
