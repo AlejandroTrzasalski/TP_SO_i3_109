@@ -19,3 +19,25 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
  
 16:46:22
+Martin Marinovich
+ 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.59  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::d22b:99d9:485f:7385  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:5f:0b:b1  txqueuelen 1000  (Ethernet)
+        RX packets 654  bytes 64744 (63.2 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 193  bytes 21028 (20.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 18  bytes 2148 (2.0 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 18  bytes 2148 (2.0 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+ 
+ 
+Hora: 17:11:49
